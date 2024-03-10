@@ -1,5 +1,10 @@
 # News-Category-Classification
 
+In order to run this program you need following libraries
+- pandas, numpy, re, nltk, datetime, swifter
+- train_test_split, LabelEncoder, matplotlib.pyplot, TfidfVectorizer, TruncatedSVD
+- accuracy_score, confusion_matrix, SGD , xgb
+
 This project classifies 42 news category from the HuffPost dataset.
 
 The link to download the dataset is [here](https://www.kaggle.com/datasets/rmisra/news-category-dataset).
